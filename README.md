@@ -1,4 +1,4 @@
-# Hio, I am Venkatesh 👏
+# Hi, I am Venkatesh 👏
 
 ---
 
