@@ -1,15 +1,12 @@
-### 👋 Hi, I'm Jane Doe!
-I'm a web developer with a love for clean code and pixel art.
+# Hi, I'm Marish 👋
 
-🔭 I’m currently working on:  
-- Portfolio website  
-- Fun React UI challenges  
+[![Gmail Badge](https://img.shields.io/badge/-praveenmarish0059@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:praveenmarish0059@gmail.com)](mailto:praveenmarish0059@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-praveenmarish-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://t.me/praveenmarish)](https://t.me/praveenmarish)
+![GitHub Badge](https://img.shields.io/badge/-praveenmarish-lightgrey?style=flat&logo=github)
 
-🌱 I’m learning:  
-- TypeScript  
-- Web animations  
+- I like to learn new things  
+- I love programming  
 
-📫 How to reach me:  
-- [LinkedIn](https://linkedin.com/in/janedoe)  
-- [Twitter](https://twitter.com/janedoe)
+---
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenmarish&layout=compact&theme=dark&langs_count=6)
