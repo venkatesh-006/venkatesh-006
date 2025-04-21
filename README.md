@@ -8,16 +8,6 @@
 
 ---
 
-<div align="center">
-  
-### 🔥 Venkatesh's GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sathiyanarayanan-M&show_icons=true&theme=dark&count_private=true&hide_title=true)
-
-</div>
-
----
-
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 
 ---
