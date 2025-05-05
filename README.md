@@ -12,4 +12,6 @@
 
 ---
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-006&layout=compact&theme=dark&langs_count=6)
+
 From [venkatesh](https://github.com/venkatesh-006) 💚
