@@ -12,16 +12,10 @@
 
 ---
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-006&layout=compact&theme=dark&langs_count=6)
-
 ## 📊 Venkatesh's GitHub Stats
 
 ![Venkatesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatesh-006&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-006&layout=compact&theme=radical)
-
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=venkatesh-006&theme=radical)
-
 
 From [venkatesh](https://github.com/venkatesh-006) 💚
